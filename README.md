@@ -5,7 +5,7 @@
 ![Whitehat](https://img.shields.io/badge/Use-Whitehat-green.svg)
 ![Python](https://img.shields.io/badge/Made%20with-Python-FFD43B.svg)
 
-A powerful multi-source OSINT (Open Source Intelligence) tool designed to gather public information based on **email address**, **username**, or **real name**. Useful for cybersecurity research, red teaming, or CTFs.
+A simple multi-source OSINT (Open Source Intelligence) tool designed to gather public information based on **email address**, **username**, or **real name**. Useful for cybersecurity research, red teaming, or CTFs.
 
 > © 2025 - https://jull3.se
 <img src="https://jull3.se/demo.png">
