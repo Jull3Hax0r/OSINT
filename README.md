@@ -8,7 +8,8 @@
 A powerful multi-source OSINT (Open Source Intelligence) tool designed to gather public information based on **email address**, **username**, or **real name**. Useful for cybersecurity research, red teaming, or CTFs.
 
 > © 2025 - https://jull3.se
-<img scr="https://jull3.se/demo.png">
+<img src="https://jull3.se/demo.png">
+
 ---
 
 ## 📦 Installation
