@@ -35,7 +35,7 @@ colorama
 
 ## 🧪 Recommended: Run in a Virtual Environment
 
-To keep your Python dependencies isolated, we recommend using a `venv`:
+To keep your Python dependencies isolated, i  recommend using a `venv`:
 
 ```bash
 # Create a virtual environment
