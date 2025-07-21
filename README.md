@@ -66,13 +66,13 @@ deactivate
 python osint_tool.py -q "john.doe@example.com"
 
 # Social media only
-python osint_tool.py -q "johndoe" -t social
+python osint.py -q "johndoe" -t social
 
 # Full search with export
-python osint_tool.py -q "John Doe" -t all -o results.json
+python osint.py -q "John Doe" -t all -o results.json
 
 # No banner
-python osint_tool.py -q "target" --no-banner
+python osint.py -q "target" --no-banner
 ```
 
 ---
